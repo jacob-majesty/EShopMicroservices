@@ -7,6 +7,9 @@
 
 O EShop é uma plataforma de e-commerce construída com arquitetura de microserviços utilizando .NET 8 e diversas tecnologias modernas.
 
+<img width="1476" height="746" alt="image" src="https://github.com/user-attachments/assets/1f1e199c-cdd7-4408-9a43-90961feb4daa" />
+
+
 ## 📌 Visão Geral
 
 Este projeto demonstra a implementação de uma arquitetura de microserviços para um sistema de e-commerce, com os seguintes componentes:
