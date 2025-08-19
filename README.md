@@ -50,7 +50,7 @@ EShopMicroservices/
 
 ### ADR (Architectural Decision Record): Registro de Decisão Arquitetural
 - [ADR-001: Catalog Architecture](https://github.com/jacob-majesty/EShopMicroservices/blob/main/docs/adr/ADR-001-catalog-architecture.md)  
-- [ADR-002: Basket Architecture](ADR-002-basket-architecture.md)  
+- [ADR-002: Basket Architecture](https://github.com/jacob-majesty/EShopMicroservices/blob/main/docs/adr/ADR-002-basket-architecture.md)  
 
 ### Diagrama de Arquitetura
 
@@ -117,8 +117,32 @@ Você pode testar os endpoints usando o Swagger UI de cada serviço:
 Ou através do API Gateway em `http://localhost:5000/swagger`
 
 ## 🤝 Contribuição
+- Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+----
+
+**🚧 Status do Projeto**  
+*Em desenvolvimento ativo - não está pronto para produção.*  
+
+**✅ Funcionalidades implementadas:**   Catalog Microservice
+- Estrutura básica do microsserviço  
+- Endpoints principais  
+- Integração com PostgreSQL  
+
+**🛠️ Em andamento:**   Basket Microservice
+- Testes de integração  
+- Implementação do Redis  
+- Documentação detalhada  
+
+**⚠️ Nota:**  
+APIs sujeitas a mudanças até a versão estável.  
+
+---  
+
+*Última atualização: 19/08/2025*  
+
+---  
+
 
 ## 📄 Licença
 
