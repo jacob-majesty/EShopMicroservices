@@ -48,6 +48,10 @@ EShopMicroservices/
 └── 📁 README.md                 # Documentação
 ```
 
+### ADR (Architectural Decision Record): Registro de Decisão Arquitetural
+- [ADR-001: Catalog Architecture](ADR-001-catalog-architecture.md)  
+- [ADR-002: Basket Architecture](ADR-002-basket-architecture.md)  
+
 ### Diagrama de Arquitetura
 
 ```
